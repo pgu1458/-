@@ -8,7 +8,7 @@
 <!-- ![demo](docs/demo.gif) -->
 
 
-시연영상 : 
+시연영상 : https://youtu.be/XqkPrCwqqmw
 
 ---
 
